@@ -1,0 +1,7 @@
+{
+  "name": "tinytill",
+  "version": "0.1.0",
+  "description": "A tiny checkout for the Agents That Remember workshop",
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
