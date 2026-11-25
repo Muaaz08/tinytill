@@ -1,0 +1,1 @@
+Add input validation to cartTotal in src/cart.js and a test for the edge cases. Explain the trade-offs you considered before choosing an approach.
